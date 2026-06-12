@@ -1,0 +1,4 @@
+# ads.txt for localjunkman.org
+# Local JunkMan does not participate in programmatic advertising.
+# This file is present to prevent unauthorized ad selling on this domain.
+placeholder.example.com, placeholder, DIRECT, placeholder
